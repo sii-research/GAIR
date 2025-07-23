@@ -12,20 +12,17 @@ Our mission is to create cutting-edge generative AI technologies that are intell
 
 ## 🔥 Latest Release
 ### Deep Cognition
-**Release Date**: July 2025
 
 #### 🔗 Resources
 - **🌐 Website**: [Deep Cognition](https://www.opensii.ai/)
 
 
 ### AlphaGo Moment for Model Architecture Discovery
-**Release Date**: July 2025
 
 #### 🔗 Resources
 - **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/ASI-Arch)
 
 ###  MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning
-**Release Date**: July 2025
 
 #### 🔗 Resources
 - **📖 Paper**: [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812)
@@ -33,7 +30,6 @@ Our mission is to create cutting-edge generative AI technologies that are intell
 - **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/MegaScience)
 
 ###  ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry
-**Release Date**: July 2025
 
 #### 🔗 Resources
 - **📖 Paper**: [ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)
