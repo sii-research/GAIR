@@ -11,6 +11,38 @@ Our mission is to create cutting-edge generative AI technologies that are intell
 ---
 
 ## 🔥 Latest Release
+### Deep Cognition
+**Release Date**: July 2025
+
+#### 🔗 Resources
+- **🌐 Website**: [Deep Cognition](https://www.opensii.ai/)
+
+
+### AlphaGo Moment for Model Architecture Discovery
+**Release Date**: July 2025
+
+#### 🔗 Resources
+- **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/ASI-Arch)
+
+###  MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning
+**Release Date**: July 2025
+
+#### 🔗 Resources
+- **📖 Paper**: [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812)
+- **🤗 HuggingFace**: [MegaScience](https://huggingface.co/MegaScience)
+- **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/MegaScience)
+
+###  ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry
+**Release Date**: July 2025
+
+#### 🔗 Resources
+- **📖 Paper**: [ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)
+- **🌐 Website**: [ResearcherBench](https://researcherbench.github.io/)
+- **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/ResearcherBench)
+
+
+
+## 📚 Previous Works
 
 ### OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling
 **Release Date**: June 2025
@@ -19,9 +51,6 @@ Our mission is to create cutting-edge generative AI technologies that are intell
 - **📖 Paper**: [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/pdf/2506.20512)
 - **🤗 HuggingFace**: [OctoThinker Models](https://huggingface.co/OctoThinker)
 - **💻 GitHub**: [Source Code & Implementation](https://github.com/GAIR-NLP/OctoThinker)
-
-
-## 📚 Previous Works
 
 ### PC-Agent-E: Efficient Agent Training for Computer Use
 
